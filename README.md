@@ -14,8 +14,7 @@
 ###
 
 <div align="center">
-  <img src="![vamo (2)](https://github.com/user-attachments/assets/f0033ffd-eeff-492f-b2b8-7d94ff0b663f)
-"  />
+  <img src="https://i.pinimg.com/736x/8d/90/ba/8d90bafb3a6b2429b3bff05888308578.jpg"  />
 </div>
 
 ###
