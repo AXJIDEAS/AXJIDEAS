@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
 </div>
 
 ###
@@ -12,17 +12,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://i.pinimg.com/736x/8d/90/ba/8d90bafb3a6b2429b3bff05888308578.jpg"  />
-</div>
-
-###
-
 <h1 align="center">Holip, Soy Anton 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Contamdote cositas de mi...</h3>
+<h3 align="center">👩‍💻 Contamdote cositas de mi...</h3>
 
 ###
 
@@ -30,11 +24,11 @@
 
 ###
 
-<h3 align="left">🛠 actualmente sé manejar lenguajes como:</h3>
+<h3 align="center">🛠 actualmente sé manejar lenguajes como:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png" height="40" alt="Java logo"  />
@@ -50,7 +44,7 @@
 
 ###
 
-<h3 align="left">🔥   AxJ Studios 4ever </h3>
+<h3 align="center">🔥 AxJ Studios 4ever </h3>
 
 ###
 
