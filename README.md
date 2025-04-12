@@ -1,3 +1,7 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"
+  ><iframe src="https://giphy.com/embed/gk94kmWa87cVCXeCUG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+    
+  </iframe></div><p><a href="https://giphy.com/gifs/cartoon-network-emea-cartoon-network-gumball-darwin-gk94kmWa87cVCXeCUG">via GIPHY</a></p>
 <div align="center">
   <img height="150" src="  <img src="https://media.giphy.com/media/IxHgeck5Q7sd2/giphy.gif"/>
 </div>
