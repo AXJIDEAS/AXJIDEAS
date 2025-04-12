@@ -14,7 +14,8 @@
 ###
 
 <div align="center">
-  <img src="https://www.memecreator.org/static/images/memes/4690298.jpg"  />
+  <img src="![vamo (2)](https://github.com/user-attachments/assets/f0033ffd-eeff-492f-b2b8-7d94ff0b663f)
+"  />
 </div>
 
 ###
