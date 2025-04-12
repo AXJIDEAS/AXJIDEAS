@@ -1,13 +1,13 @@
 
 <div align="center">
-   <img margin=false radius= 30% src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" hrc="https://www.linkedin.com/in/alejandro-hinestroza-154882317/" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" hrc="https://www.youtube.com/@antonioaaxpollillo3485" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" href="https://www.linkedin.com/in/alejandro-hinestroza-154882317/" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" href="https://www.youtube.com/@antonioaaxpollillo3485" />
  </div>
 
 ###
