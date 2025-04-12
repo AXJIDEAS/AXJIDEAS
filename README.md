@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
+  <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
 </div>
 
 ###
@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png)" height="40" alt="Python"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
