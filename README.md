@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
+   <img margin=false radius= 30% src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBobjl3d3diZjNhbGNnMzk3ODJ0bWhrYXhxZ3dubnB1d3AwdXpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk94kmWa87cVCXeCUG/giphy.gif"/>
 </div>
 
 ###
@@ -16,11 +16,12 @@
 
 ###
 
-<h3 align="center">👩‍💻 Contamdote cositas de mi...</h3>
+<h3 align="center">👩‍💻 Contandote cositas de mí...</h3>
 
 ###
 
-<p align="left">Soy un joven desarrollador colombiano<br><br>- 🔭 Actualmente soy estudiante del sena<br>- 📚 sin embargo trato de hacer tabajos independientes<br>- ⚡ Y tengo ganas de aprender lo más que pueda para desarrollar mi primer juego independiente</p>
+<p align="left">Soy un joven desarrollador colombiano 🔭 Actualmente soy estudiante del sena 📚 sin embargo trato de hacer tabajos independientes⚡ Y tengo ganas de aprender lo más que pueda para desarrollar mi primer juego independiente</p>
+
 
 ###
 
@@ -44,12 +45,12 @@
 
 ###
 
-<h3 align="center">🔥 AxJ Studios 4ever </h3>
+<h3 align="center">🔥Este es mi perfil, el perfil de AxJ Ideas </h3>
 
 ###
 
 <div align="center">
-  <img src="https://github.com/AXJIDEAS/A-little-story/blob/main/images/Logo.png?raw=true"  />
+  <img src="https://www.gifcen.com/wp-content/uploads/2024/05/goku-gif-1.gif"  />
 </div>
 
 ###
