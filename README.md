@@ -6,9 +6,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" href="https://www.linkedin.com/in/alejandro-hinestroza-154882317/" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" href="https://www.youtube.com/@antonioaaxpollillo3485" />
- </div>
+   <p> Mis Redes Sociales :) </p>
+  <img align="left" src="https://img.icons8.com/?size=100&id=GIpl4LX6E2xe&format=png&color=000000" height="75" href="https://www.linkedin.com/in/alejandro-hinestroza-154882317/" />
+   <img  align="center" src="https://img.icons8.com/pulsar-color/48/reddit.png" alt="reddit" height="75">
+  <img align="right" src="https://img.icons8.com/?size=100&id=PTPsbLzvd2Eu&format=png&color=fffffff" height="75" alt="youtube logo" href="https://www.youtube.com/@antonioaaxpollillo3485" />
+</div>
 
 ###
 
