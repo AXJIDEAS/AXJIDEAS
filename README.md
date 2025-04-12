@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&](https://www.memecreator.org/static/images/memes/4690298.jpg)"  />
+  <img src="https://www.memecreator.org/static/images/memes/4690298.jpg"  />
 </div>
 
 ###
@@ -47,12 +47,6 @@
   <img src="https://static.vecteezy.com/system/resources/previews/012/697/301/non_2x/3d-css-icon-design-free-png.png" height="40" alt="CSS3 logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.b48188be46f55683349e815437ea0ad7?rik=yLA2SNYhiJgefw&riu=http%3a%2f%2fmediaresource.sfo2.digitaloceanspaces.com%2fwp-content%2fuploads%2f2024%2f04%2f20162054%2fgodot-icon-logo-23E688940B-seeklogo.com.png&ehk=jJKIRqlzNskHxJg%2fM%2f4XK4kXCIFfv7JB11G%2fm9tn3QQ%3d&risl=&pid=ImgRaw&r=0" height="40" alt="Godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
