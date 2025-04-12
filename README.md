@@ -19,24 +19,24 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Holip, Soy Anton 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Contamdote cositas de mi...</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Soy un joven desarrollador colombiano<br><br>- 🔭 Actualmente soy estudiante del sena<br>- 📚 sin embargo trato de hacer tabajos independientes<br>- ⚡ Y tengo ganas de aprender lo más que pueda para desarrollar mi primer juego independiente</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 actualmente sé manejar lenguajes como:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png)" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
